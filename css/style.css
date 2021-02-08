@@ -162,6 +162,7 @@
 		margin: 0 auto;
 	}
 
+
 	.header-logo {
 		display: none;
 	}
@@ -208,7 +209,7 @@
 	}
 
 	.menu-open .nav .nav-list .nav-item .nav-item-link {
-		font-size: 20px;
+		font-size: 28px;
 	}
 
 	.menu-open .main-inner {
