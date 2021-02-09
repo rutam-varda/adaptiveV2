@@ -144,8 +144,8 @@
 		background: #000;
 		position: absolute;
 		top: 0;
-		left: 0;
-		width: 375px;
+		left: 20px;
+		width: 100%;
 		min-height: 332px;
 		z-index: 10;
 	}
